@@ -1,2 +1,2 @@
 # vacunas_chile
- scrap a minsañ
+ scrap de vacunas a web minsal
